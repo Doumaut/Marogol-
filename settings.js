@@ -4,12 +4,12 @@ const  { indonesia, english, spanyol} = require(`./language`)
 
 // Website Api
 global.APIs = {
-	alfa: 'https://Wa.me/6281233083172', //apabila link api eror, segera laporkan ke owner
+	alfa: 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan ke owner
 }
 
 // Free apikey
 global.APIKeys = {
-	'https://Wa.me/6281233083172': 'V12',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz': 'V12',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
@@ -25,11 +25,11 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "Putricantik Bot" //namabot kalian
-global.ownername= "Balls store" //nama kalian
+global.ownername= "Ballsstore" //nama kalian
 global.myweb ="https://Wa.me/6281233083172" //bebas asal jan hapus
 global.youtube = "https://youtube.com/shorts/7ySw5JMgNIo?feature=share" //bebas asal jan hapus
 global.github = "https://github.com/Doumaut/Marogol-" //bebas
-global.email = "basicallyattack@gmail.com" //bebas
+global.email = "sadboysabi366@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6281233083172'] //premium user
