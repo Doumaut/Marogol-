@@ -1509,7 +1509,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ DikaArdnt
 ├ Mhankbarbar
 ├ Nurutomo
-├ Rashid
+├ Ballsstore 
 ├ ZeeoneOfc
 ├ Penyedia Module
 ╰❒ And All Support
@@ -1528,7 +1528,7 @@ exports.rules = (prefix) => {
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini di private oleh owner
+➡️ Script ini di private oleh owner bot
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
