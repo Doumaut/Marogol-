@@ -10,7 +10,7 @@
 	@ DikaArdnt [author]
 	@ Mhankbarbar
 	@ Nurutomo
-	@ Rashid
+	@ Ballsstore 
 	@ ZeeoneOfc
 	@ Penyedia Module
 	@ And All Support
